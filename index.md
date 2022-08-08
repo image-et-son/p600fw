@@ -10,7 +10,7 @@ You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to 
 
 <button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
 
-Download the documentation (user manual in English) and cheat sheet are available.
+Download the documentation (user manual in English) and cheat sheet.
 
 <button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
 
