@@ -6,9 +6,8 @@ Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based
 
 You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
 
-<button style="background-color: #008CBA;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.syx';">Download v2022 SysEx</button>
-
-<button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.syx';">Download v2022 SysEx</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
 
 Download the documentation (user manual in English) and cheat sheet.
 
