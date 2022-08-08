@@ -1,3 +1,19 @@
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
+
 # Prophet-600 v2022 Firmware 
 
 Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware. For updates and background information see also [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
