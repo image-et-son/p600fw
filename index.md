@@ -19,8 +19,8 @@ Watch this space
 
 ## Links
 
-[Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/)
-[GliGli's Prophet-600 blog](http://gliglisynth.blogspot.com/search/label/p600fw)
+- [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/)
+- [GliGli's Prophet-600 blog](http://gliglisynth.blogspot.com/search/label/p600fw)
 
 
 ## Credits and licence
