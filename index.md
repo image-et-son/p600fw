@@ -21,6 +21,12 @@ Download the documentation (user manual in English) and cheat sheet are availabl
 
 Watch this space
 
+## MIDI spec
+
+If you interested in developing tools around the v2022 firmware, i.e. MIDI patch editor etc., you may find the MIDI specification useful. 
+
+<button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_MIDI_Spec.pdf';">Download v2022 MIDI Spec</button>
+
 ## Earlier firmware versions
 
 [GliGli download page for stable version 2.0](https://gligli.github.io/p600fw/)
