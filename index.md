@@ -3,9 +3,11 @@
 
 Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. To sign up for regulator updates and new and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
 
-## Latest Firmware
+***Note: this is the Teensy++ based firmware upgrade - this software does not work without this modification.***
 
-The latest firmware version is v2020 (August 8th 2022). You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
+## Latest firmware
+
+The latest firmware version is v2022 (August 8th 2022). You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.syx';">Download v2022 SysEx</button>
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
