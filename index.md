@@ -15,9 +15,9 @@ You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to 
 
 Download the documentation (user manual in English) and cheat sheet.
 
-<button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;"onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
 
-<button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;"onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
 
 
 ## v2022 Patch collection
@@ -32,7 +32,8 @@ If you interested in developing tools around the v2022 firmware, i.e. MIDI patch
 
 ## Earlier firmware versions
 
-[GliGli download page for stable version 2.0](https://gligli.github.io/p600fw/)
+- [My own compilation of GliGli version 2.1 RC3 (ZIP)](/release_2_10-RC3.zip)
+- [GliGli download page for stable version 2.0](https://gligli.github.io/p600fw/)
 
 ## Links
 
