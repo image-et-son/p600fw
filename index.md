@@ -1,7 +1,7 @@
 
 # Downloads and useful ressources  
 
-Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. Fo sign up for regulator and for further reading information see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
+Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. To sign up for regulator updates and new and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
 
 ## Latest Firmware
 
