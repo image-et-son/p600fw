@@ -3,9 +3,9 @@
 
 Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. Fo sign up for regulator and for further reading information see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
 
-## Firmware and documentation download
+## Latest Firmware
 
-You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
+The latest firmware version is v2020 (August 8th 2022). You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.syx';">Download v2022 SysEx</button>
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
@@ -17,11 +17,11 @@ Download the documentation (user manual in English) and cheat sheet.
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
 
 
-## v2022 Patch collection
+## Patch collection for the v2022 firmware
 
 Watch this space
 
-## MIDI spec
+## MIDI specification
 
 If you interested in developing tools around the v2022 firmware, i.e. MIDI patch editor etc., you may find the MIDI specification useful. 
 
