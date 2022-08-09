@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Prophet-600 v2022 Firmware 
 description: Essential further development of the famous Teensy++ based Prophet-600 firmware upgrade by GliGli 
-background-image: url('/test.jpg')
+background-image: url(test.jpg)
