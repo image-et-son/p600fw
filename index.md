@@ -1,7 +1,7 @@
 
 # Downloads and useful ressources  
 
-Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. To sign up for regulator updates and new and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
+Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. To sign up for regular updates and news and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
 
 ***Note: this is the Teensy++ based firmware upgrade - this software does not work without this modification.***
 
@@ -25,7 +25,7 @@ Watch this space
 
 ## MIDI specification
 
-If you interested in developing tools around the v2022 firmware, i.e. MIDI patch editor etc., you may find the MIDI specification useful. 
+If you are interested in developing tools around the v2022 firmware, i.e. a MIDI patch editor etc., you may find the MIDI specification useful. 
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_MIDI_Spec.pdf';">Download v2022 MIDI Spec</button>
 
