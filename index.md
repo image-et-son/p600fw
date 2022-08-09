@@ -25,7 +25,7 @@ Watch this space
 
 If you interested in developing tools around the v2022 firmware, i.e. MIDI patch editor etc., you may find the MIDI specification useful. 
 
-<button onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_MIDI_Spec.pdf';">Download v2022 MIDI Spec</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_MIDI_Spec.pdf';">Download v2022 MIDI Spec</button>
 
 ## Earlier firmware versions
 
