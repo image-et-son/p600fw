@@ -9,12 +9,12 @@ Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based
 
 The latest firmware version is v2022 (August 8th 2022). You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
 
-<button style="{background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;} :hover {background-color: white}" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.syx';">Download v2022 SysEx</button>
-<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
+<button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.syx';">Download v2022 SysEx</button>
+<button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022.hex';">Download v2022 Hex</button>
 
 Download the documentation (user manual in English) and cheat sheet.
 
-<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
+<button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
 
 <button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
 
@@ -23,7 +23,7 @@ Download the documentation (user manual in English) and cheat sheet.
 
 The new firmware version comes with a patch collection which utilises some of the new features. Please refer to the enclosed documentation for patch groups, names, contributors as well as features used in each patch. These are free to use but - like alsways - it would be nice to acknowledge the work if it adds substantially to your work.
 
-<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Patch_Collection_1.zip';">Download v2022 Patch Collection 1 (ZIP)</button>
+<button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Patch_Collection_1.zip';">Download v2022 Patch Collection 1 (ZIP)</button>
 
 ## MIDI specification
 
