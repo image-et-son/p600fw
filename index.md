@@ -16,7 +16,7 @@ Download the documentation (user manual in English) and cheat sheet.
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
 
-<button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.background-color='#069'" onMouseOut="this.style.background-color='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
+<button style="border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
 
 
 ## Patch collection for the v2022 firmware
