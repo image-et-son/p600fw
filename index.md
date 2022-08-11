@@ -48,4 +48,4 @@ If you are interested in developing tools around the v2022 firmware, i.e. a MIDI
 
 Everything is under GPL v3 license, except files that have their own license in the header. 
 
-Thanks to all contributors on GitHub and Gearspace for ideas, testing, general support and proof reading. Thanks to John Sepúlveda, Ken Gans, Jpro600k and Andy Wenzel for patches and very detailed listening and testing. 
+Thanks to all contributors on GitHub and Gearspace for ideas, testing, general support and proof reading. Thanks to Matrix12x, el-folie, Jpro600k and Andy W. for patches and very detailed listening and testing. 
