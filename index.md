@@ -25,6 +25,8 @@ The new firmware version comes with a patch collection which utilises some of th
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Patch_Collection_1.zip';">Download v2022 Patch Collection 1 (ZIP)</button>
 
+***Note: in v2022 you will need to use the the new patch management mode for loading MIDI patches - please refer to the user manual.***
+
 ## MIDI specification
 
 If you are interested in developing tools around the v2022 firmware, i.e. a MIDI patch editor etc., you may find the MIDI specification useful. 
