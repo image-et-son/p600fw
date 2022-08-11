@@ -1,5 +1,5 @@
 
-# Downloads and useful ressources  
+# Downloads and useful resources  
 
 Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. To sign up for regular updates and news and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
 
