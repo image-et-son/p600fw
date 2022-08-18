@@ -1,7 +1,7 @@
 
 # Downloads and useful resources  
 
-Dear Prophet-600 user, on this page you find the latest Prophet-600 GliGli based firmware, user manuals and supportive materials. To sign up for regular updates and news and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
+Dear Prophet-600 user, on this page you find the latest Prophet-600 firmware version, user manuals and supportive materials. To sign up for regular updates and news and for further reading see  [Imogen's Prophet-600 blog](https://prophet600revisited.blogspot.com/).
 
 ***Note: this is the Teensy++ based firmware upgrade - this software does not work without this modification.***
 
