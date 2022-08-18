@@ -35,8 +35,8 @@ If you are interested in developing tools around the v2022 firmware, i.e. a MIDI
 
 ## Earlier firmware versions
 
-- [My own compilation of GliGli version 2.1 RC3 (ZIP)](/release_2_10-RC3.zip)
-- [GliGli download page for stable version 2.0](https://gligli.github.io/p600fw/)
+- [My own compilation of GliGli's version 2.1 RC3 (ZIP)](/release_2_10-RC3.zip)
+- [GliGli's download page for stable version 2.0](https://gligli.github.io/p600fw/)
 
 ## Links
 
