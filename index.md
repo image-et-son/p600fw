@@ -18,6 +18,9 @@ Download the documentation (user manual in English) and cheat sheet.
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
 
+PLease use the option to provide feedback and participate in feature upvoting using the survey doc below. It is most useful after you have tried out the new firmware for a bit and then share your thoughts.
+
+- [Feedback survey and feature upvote](https://docs.google.com/forms/d/e/1FAIpQLSc56QokkhGm33rP6qPIDRu0wkF6uG-0AGJNjAnLxI6SEp3dKg/viewform?usp=sf_link)
 
 ## Patch collection for the v2022 firmware
 
