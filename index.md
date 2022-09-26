@@ -7,10 +7,10 @@ Dear Prophet-600 user, on this page you find the latest Prophet-600 firmware ver
 
 ## Latest firmware
 
-The latest firmware version is v2022.1 (August 26th 2022). You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
+The latest firmware version is v2022.1 (September 26th 2022). You can download the firmware as MIDI SysEx (update via MIDI) or Hex (update to Teensy++ via USB). 
 
-<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022_1.syx';">Download v2022 SysEx</button>
-<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022_1.hex';">Download v2022 Hex</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022_1.syx';">Download v2022.1 SysEx</button>
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022_1.hex';">Download v2022.1 Hex</button>
 
 Download the documentation (user manual in English) and cheat sheet.
 
