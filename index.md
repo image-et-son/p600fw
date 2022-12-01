@@ -12,11 +12,13 @@ The latest firmware version is v2022.1 (September 26th 2022). You can download t
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022_1.syx';">Download v2022.1 SysEx</button>
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_firmware_v2022_1.hex';">Download v2022.1 Hex</button>
 
-Download the documentation (user manual in English) and cheat sheet.
+Download the documentation (user manual in English) and cheat sheet. The new panel overlay (parameter quick guide) is provided by Dioskilos.
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_User_Manual.pdf';">Download v2022 User Manual</button>
 
 <button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Cheat_Sheet.pdf';">Download v2022 Cheat Sheet</button>
+
+<button style="background-color: #267CB9;border: none;color: white;padding: 15px 32px;display: inline-block;" onMouseOver="this.style.backgroundColor='#069'" onMouseOut="this.style.backgroundColor='#267CB9'"  onclick="window.location.href='https://github.com/image-et-son/p600fw/releases/download/v2022/P600_v2022_Panel_Overlay_2022-11-26.pdf';">Download Dioskilos Panel Overlay</button>
 
 Please use the option to provide feedback and to participate in feature upvoting using the survey doc below! It is most useful after you have tried out the new firmware for a bit and then share your thoughts.
 
