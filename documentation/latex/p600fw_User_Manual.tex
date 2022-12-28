@@ -480,7 +480,7 @@ The sequencer and arpeggiator share the same clock, which can simultaneously run
 \end{itemize}  
 When the clock source is set to external (either \textit{MIDI} or \textit{tape}) the \clock sets the clock divide. The values are: 192,168,144,128,96,72,48,36,24,18,12,9,6,4,3,2.
 
-It is also possible to sync the LFO to the sequencer / arpeggiator clock (internal or external). The menu parameter \lfosync provides the options \textit{off} (no sync, free running LFO) or one of the following \textit{1,2,3,4,5,6,8}. The latter sets the number of clock beats after which the LFO in reset.
+It is also possible to sync the LFO to the sequencer / arpeggiator clock (internal or external). To this end the menu parameter \lfosync provides the options \textit{1,2,3,4,5,6} and \textit{8}. This sets the number of arpeggiator / sequencer beats after which the LFO is reset. 
 
 Note that you can also operate the sequencer and/or arpeggiator in unison mode with all features of that mode (see section \ref{poly-unison-voice}). However, the voices are not shared between the tracks and the arpeggiator. The priority is as follows: arpeggiator, sequencer track 2, sequencer track 1. If activated, the arpeggiator will use all voices in unison mode and when the sequencer tracks 1 and 2 have a note on the same beat, only track 2 will play. Unison mode should be activated before starting the sequencer or arpeggiator.
 
